@@ -1,6 +1,6 @@
 # Ghost Theme Frenemy
 
-> 2020-02-20 该版本已经重构：[Ghost Rebirth](https://github.com/JaxsonWang/rebirth/tree/ghost-theme)
+> 2020-02-20 该版本已经重构：[Ghost Rebirth](https://github.com/JaxsonWang/Rebirth)
 
 移植于 [Frenemy](https://github.com/JaxsonWang/Frenemy) 
 
